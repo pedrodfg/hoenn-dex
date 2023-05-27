@@ -79,7 +79,8 @@ main .listagem-pokemon{
     justify-content: center;
     flex-wrap: wrap;
     gap: 20px;
-    width: 80vw;
+    max-width: 1250px;
+    min-width: 300px;
     margin: auto;
     margin-top: 100px;
     margin-bottom: 100px;
