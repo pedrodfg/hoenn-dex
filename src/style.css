@@ -173,7 +173,7 @@ main .gif{
     padding: 6px 15px;
 }
 .descricao{
-    max-height: 9vh;
+    max-height: 80px;
     overflow-y: scroll;
 }
 .descricao > p{
