@@ -8,10 +8,6 @@
     margin: 0;
     padding: 0;
 }
-.root {
-    size: 62.5%
-    }
-
 
     *::-webkit-scrollbar {
     width: 8px;
