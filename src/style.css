@@ -45,6 +45,8 @@ header  > span{
     color: #FFCC01;
     text-shadow: 10px 10px 1px rgba(16, 42, 185, 0.418);
     font-variant: small-caps;
+    -webkit-text-stroke: 1px black;
+    
    
     
 }
